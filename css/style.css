@@ -8,7 +8,7 @@ White: #FFFFFF */
 .title {
   height: 100%;
   background-image: url("Images/chitarra1.jpg") !important;
-  background-size: cover;
+  background-size: cover !important;
   background-position: center;
   background-repeat: no-repeat;
   text-align: center;
