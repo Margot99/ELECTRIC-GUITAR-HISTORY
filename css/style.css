@@ -7,7 +7,6 @@ White: #FFFFFF */
 
 .title {
   height: 100%;
-  background-image: url('Images/chitarra1.jpg') !important;
   background-size: cover !important;
   background-position: center;
   background-repeat: no-repeat;
@@ -22,6 +21,7 @@ White: #FFFFFF */
     align-items: center;
     justify-content: center;
     font-family: 'League Spartan', sans-serif !important;
+  background-image: url('Images/chitarra1.jpg') !important;
 }
 
 .nav-link
