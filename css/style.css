@@ -5,6 +5,13 @@ Orange: #ffaa2a
 Orange light: #FFBD59
 White: #FFFFFF */
 
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
+}
+
 .title {
   height: 100%;
   background-image: url("Images/chitarra1.jpg") !important;
