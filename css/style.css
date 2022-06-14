@@ -209,6 +209,11 @@ h3 {
   align-items: center;
 }
 
+#architettura1{
+  width: 70%;
+  align-items: center !important;
+}
+
 #wireframe{
   width: 40%;
 
