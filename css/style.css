@@ -170,3 +170,39 @@ h3 {
   height: 360px;
   width: 540px;
  }
+
+.titleabout{
+  margin-top: 2%;
+    font-family: 'League Spartan', sans-serif !important;
+}
+
+.Documento{
+  width: 70%;
+  margin-left: 15%;
+  background-color: #19191E;
+  padding: 1%;
+}
+
+.h2about{
+  margin: 2% !important;
+  color: white !important;
+  }
+
+.h3about{
+    margin: 2% !important;
+    margin-left: 0% !important;
+    color: white !important;
+    font-size: 20px;
+    text-align: left !important;
+    text-decoration-style: double;
+    }
+
+#architettura{
+  width: 60%;
+  align-items: center;
+}
+
+#wireframe{
+  width: 40%;
+
+}
